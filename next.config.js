@@ -4,6 +4,9 @@ const nextConfig = {
       ignoreBuildErrors: true,
     },
     experimental: {
+      appDir: true,
+    },
+    experimental: {
       serverActions: true,
       serverComponentsExternalPackages: ["mongoose"],
     },
