@@ -10,7 +10,7 @@ import Bottombar from "@/components/shared/Bottombar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Threads",
+  title: "Theo | Your Bible Companion",
   description: "A Next.js 13 Meta Threads Application"
 }
 
