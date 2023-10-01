@@ -8,9 +8,10 @@ import { Input } from "../ui/input";
 
 interface Props {
   routeType: string;
+  placeholder: string;
 }
 
-function Searchbar({ routeType }: Props) {
+function Searchbar({ routeType, placeholder }: Props) {
   const router = useRouter();
   const [search, setSearch] = useState("");
 
@@ -39,9 +40,7 @@ function Searchbar({ routeType }: Props) {
         id='text'
         value={search}
         onChange={(e) => setSearch(e.target.value)}
-        placeholder={`${
-          routeType !== "search" ? "Search communities" : "Search creators"
-        }`}
+        placeholder={placeholder}
         className='no-focus searchbar_input'
       />
     </div>
