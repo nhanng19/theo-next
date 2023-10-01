@@ -41,3 +41,25 @@ export function formatThreadCount(count: number): string {
     return `${threadCount} ${threadWord}`;
   }
 }
+
+export function formatBibleReference(userInput : string) {
+  // Regular expression to match different input formats
+  const pattern = /(\w+)\s?(\d+)(?::?(\d+))?/i;
+  
+  // Use regex to match the pattern in the user input
+  const match = userInput.match(pattern);
+  console.log(match)
+  if (match) {
+      // Extract book, chapter, and verse from the matched groups
+      const book = match[1].toLowerCase();
+      const chapter = match[2];
+      const verse = match[3];
+      
+      // Format the reference as book.chapter.verse
+      const formattedReference = `${book}.${chapter}.${verse}`;
+      
+      return formattedReference;
+  } else {
+      return "Invalid input format";
+  }
+}
