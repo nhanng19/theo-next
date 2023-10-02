@@ -16,4 +16,4 @@ User auth, save bible verses and commentary.
 
 Web scrape the commentary. 
 
-God please let me work on this project. Really got to make it out of here. God can help us all.
+God please let me work on this project. Really got to make it out of here. God can help us all. Ready to make it out of here.
