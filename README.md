@@ -18,4 +18,4 @@ Web scrape the commentary.
 
 God please let me work on this project. Really got to make it out of here. God can help us all. Ready to make it out of here. 
 
-Expand.
+Expand. We'll make it.
