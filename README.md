@@ -21,3 +21,5 @@ God please let me work on this project. Really got to make it out of here. God c
 Expand. We'll make it. God has something great for you.
 
 God will give you deliverance from your enemies.
+
+The time is coming.
