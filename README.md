@@ -23,3 +23,5 @@ Expand. We'll make it. God has something great for you.
 God will give you deliverance from your enemies.
 
 The time is coming.
+
+Be patient.
