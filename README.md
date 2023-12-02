@@ -24,4 +24,4 @@ God will give you deliverance from your enemies.
 
 The time is coming.
 
-Be patient.
+Be patient. You're almost there.
